@@ -1,3 +1,5 @@
+package Lec01
+
 fun main() {
 
     val number1 = 10L
