@@ -1,7 +1,7 @@
 import Lec02.Person
 
 fun main() {
-    val person = Person("developer")
+    val person = Person("developer", 10)
     println(startsWith(person.name))
 }
 
