@@ -16,7 +16,7 @@ fun main() {
         println(i)
     }
 
-    var i: Int = 1;
+    var i = 1
     while (i <= 3) {
         println(i)
         i++
